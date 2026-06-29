@@ -30,6 +30,8 @@ src/
 ├── InvalidDateRangeException.java
 ├── Hotel.java
 └── Main.java
+
+
 ## How to Run
 1. Clone the repository.
 2. Open the project in Eclipse or any Java IDE.
