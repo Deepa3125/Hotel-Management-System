@@ -23,17 +23,14 @@ The Hotel Management System is a console-based Java application developed using 
 ## Project Structure
 ```
 src/
-├── Model/
-│   ├── Room.java
-│   ├── Guest.java
-│   └── Booking.java
-├── CustomException/
-│   ├── RoomNotAvailableException.java
-│   ├── BookingNotFoundException.java
-│   └── InvalidDateRangeException.java
+├── Room.java
+├── Guest.java
+├── Booking.java
+├── RoomNotAvailableException.java
+├── BookingNotFoundException.java
+├── InvalidDateRangeException.java
 ├── Hotel.java
 └── Main.java
-```
 
 ## How to Run
 1. Clone the repository.
