@@ -29,7 +29,7 @@ src/
 ├── BookingNotFoundException.java
 ├── InvalidDateRangeException.java
 ├── Hotel.java
-└── Main.java
+├── Main.java
 
 
 ## How to Run
